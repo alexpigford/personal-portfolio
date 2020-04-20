@@ -142,6 +142,7 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
+  text-align: center;
   color: var(--main-red);
 }
 
